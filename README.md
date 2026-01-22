@@ -1,4 +1,4 @@
-# Hi there, I'm Prabhat Babu! 👋
+# Hi there, I'm Prabhat! 👋
 
 I am a final-year **Mathematics and Computing** undergraduate at **IIT Delhi**, passionate about building scalable, event-driven microservices and intelligent AI systems.
 
